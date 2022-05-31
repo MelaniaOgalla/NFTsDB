@@ -1,0 +1,25 @@
+{
+    "tokens": [
+  {
+    "id": 0,
+    "description": "My NFT",
+    "external_url": "https://github.com/MelaniaOgalla",
+    "image": "https://ibb.co/16g58xZ",
+    "name": "My NFT 0"
+  },
+  {
+    "id": 1,
+    "description": "My NFT",
+    "external_url": "https://github.com/MelaniaOgalla",
+    "image": "https://ibb.co/16g58xZ",
+    "name": "My NFT 1"
+  },
+  {
+    "id": 2,
+    "description": "My NFT",
+    "external_url": "https://github.com/MelaniaOgalla",
+    "image": "https://ibb.co/16g58xZ",
+    "name": "My NFT 2"
+  }
+]
+}
